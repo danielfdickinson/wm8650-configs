@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # Linux kernel version: 2.6.32.9
-# Fri Dec 13 20:42:30 2019
+# Fri Dec 13 23:47:32 2019
 #
 CONFIG_ARM=y
 CONFIG_SYS_SUPPORTS_APM_EMULATION=y
@@ -1340,7 +1340,7 @@ CONFIG_I2C_CHARDEV=y
 #
 # I2C Algorithms
 #
-CONFIG_I2C_ALGOBIT=m
+CONFIG_I2C_ALGOBIT=y
 # CONFIG_I2C_ALGOPCF is not set
 # CONFIG_I2C_ALGOPCA is not set
 CONFIG_I2C_ALGOWMT=y
